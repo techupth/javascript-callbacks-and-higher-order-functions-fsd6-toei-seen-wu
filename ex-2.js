@@ -3,7 +3,6 @@
 function atLeastFive(array, operation) {
   let scoreArray = [];
     for (let i = 0; i < array.length; i++){
-      array[i]
       if ( array[i] > 70 ){
         scoreArray.push(array[i])
       }
